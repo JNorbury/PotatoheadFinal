@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Potatohead</string>
+    <string name="eyesImgView">Eyes</string>
+    <string name="earsImgView">Ears</string>
+    <string name="noseImgView">Nose</string>
+    <string name="mustacheImgView">Mustache</string>
+    <string name="eyebrowsImgView">Eyebrows</string>
+    <string name="armsImgView">Arms</string>
+    <string name="shoesImgView">Shoes</string>
+    <string name="glassesImgView">Glasses</string>
+    <string name="mouthImgView">Mouth</string>
+    <string name="hatImgView">Hat</string>
+</resources>
